@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "date": "2025-01-01",
+    "title": "Array Rotation",
+    "description": "Given an array of n elements, rotate it k positions to the right in-place. Your solution should run in O(n) time and O(1) extra space. Example: [1,2,3,4,5] rotated by 2 → [4,5,1,2,3].",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 2,
+    "date": "2025-01-02",
+    "title": "Anagram Checker",
+    "description": "Write a function that takes two strings and returns True if they are anagrams of each other (ignoring case and spaces). Example: 'Listen' and 'Silent' → True.",
+    "difficulty": "Easy",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 3,
+    "date": "2025-01-03",
+    "title": "Profit & Loss Analyzer",
+    "description": "Given a list of daily stock prices, find the maximum profit you can achieve by buying on one day and selling on a later day. If no profit is possible, return 0. Example: [7,1,5,3,6,4] → 5 (buy at 1, sell at 6).",
+    "difficulty": "Medium",
+    "category": "aptitude",
+    "xp_reward": 50
+  },
+  {
+    "id": 4,
+    "date": "2025-01-04",
+    "title": "Matrix Spiral Print",
+    "description": "Given an m×n matrix, print all elements in spiral order (clockwise from top-left). Example: [[1,2,3],[4,5,6],[7,8,9]] → 1,2,3,6,9,8,7,4,5.",
+    "difficulty": "Hard",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 5,
+    "date": "2025-01-05",
+    "title": "Balanced Parentheses",
+    "description": "Write a function that checks if a string containing '(', ')', '{', '}', '[', ']' has balanced brackets. Return True if balanced, False otherwise. Example: '{[()]}' → True, '{[(])}' → False.",
+    "difficulty": "Easy",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 6,
+    "date": "2025-01-06",
+    "title": "Pattern Recognition",
+    "description": "Given a sequence of numbers, identify the underlying pattern and predict the next three numbers. Example: 2, 6, 18, 54, ?, ?, ? → The pattern is ×3, so the next three are 162, 486, 1458.",
+    "difficulty": "Medium",
+    "category": "aptitude",
+    "xp_reward": 50
+  },
+  {
+    "id": 7,
+    "date": "2025-01-07",
+    "title": "Linked List Reversal",
+    "description": "Implement a function to reverse a singly linked list iteratively. Your solution should use O(1) extra space. Return the new head of the reversed list.",
+    "difficulty": "Easy",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 8,
+    "date": "2025-01-08",
+    "title": "Python Decorator Logger",
+    "description": "Create a Python decorator called @log_execution that logs the function name, arguments, return value, and execution time (in milliseconds) each time the decorated function is called.",
+    "difficulty": "Medium",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 9,
+    "date": "2025-01-09",
+    "title": "Binary Tree Level Order",
+    "description": "Given the root of a binary tree, return the level-order traversal as a list of lists, where each inner list contains nodes at the same depth. Example: [3,[9,20,[null,null,15,7]]] → [[3],[9,20],[15,7]].",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 10,
+    "date": "2025-01-10",
+    "title": "Age & Work Problem",
+    "description": "A is twice as old as B. Five years ago, A was three times as old as B. Find their current ages. Set up the equations and solve step-by-step. Show your working.",
+    "difficulty": "Easy",
+    "category": "aptitude",
+    "xp_reward": 50
+  },
+  {
+    "id": 11,
+    "date": "2025-01-11",
+    "title": "LRU Cache Design",
+    "description": "Design and implement an LRU (Least Recently Used) cache that supports get(key) and put(key, value) operations, both in O(1) time complexity. The cache has a fixed capacity and evicts the least recently used item when full.",
+    "difficulty": "Hard",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 12,
+    "date": "2025-01-12",
+    "title": "Sentence Reversal",
+    "description": "Write a function that reverses the order of words in a sentence without reversing the characters within each word. Handle multiple spaces gracefully. Example: '  Hello  World  ' → 'World Hello'.",
+    "difficulty": "Easy",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 13,
+    "date": "2025-01-13",
+    "title": "Confusion Matrix Calculator",
+    "description": "Given a list of actual labels and predicted labels for a binary classifier, compute the confusion matrix (TP, FP, TN, FN) and calculate Precision, Recall, and F1-Score. Display results in a formatted table.",
+    "difficulty": "Medium",
+    "category": "aiml",
+    "xp_reward": 50
+  },
+  {
+    "id": 14,
+    "date": "2025-01-14",
+    "title": "Graph BFS Shortest Path",
+    "description": "Given an unweighted undirected graph represented as an adjacency list, implement BFS to find the shortest path between two nodes. Return the path as a list of nodes, or an empty list if no path exists.",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 15,
+    "date": "2025-01-15",
+    "title": "Probability Puzzle",
+    "description": "A box contains 5 red, 3 green, and 2 blue balls. Two balls are drawn randomly without replacement. Calculate the probability that: (a) both are red, (b) one is red and one is green, (c) neither is blue.",
+    "difficulty": "Medium",
+    "category": "aptitude",
+    "xp_reward": 50
+  },
+  {
+    "id": 16,
+    "date": "2025-01-16",
+    "title": "Context Manager Builder",
+    "description": "Implement a custom Python context manager class called Timer that measures and prints the execution time of the code block within a 'with' statement. Use __enter__ and __exit__ methods.",
+    "difficulty": "Easy",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 17,
+    "date": "2025-01-17",
+    "title": "Dynamic Programming: Coin Change",
+    "description": "Given a set of coin denominations and a target amount, find the minimum number of coins needed to make the amount. If not possible, return -1. Example: coins=[1,5,10], amount=28 → 5 coins (10+10+5+1+1+1).",
+    "difficulty": "Hard",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 18,
+    "date": "2025-01-18",
+    "title": "Paragraph Comprehension",
+    "description": "Read the following passage and answer: 'Machine learning models trained on biased data perpetuate societal inequities. Mitigating bias requires diverse datasets, fairness metrics, and continuous monitoring.' In your own words, explain three concrete steps to reduce bias in ML systems.",
+    "difficulty": "Medium",
+    "category": "verbal",
+    "xp_reward": 50
+  },
+  {
+    "id": 19,
+    "date": "2025-01-19",
+    "title": "Hash Map Implementation",
+    "description": "Implement a basic hash map (dictionary) from scratch in Python using an array and chaining for collision resolution. Support put(key, value), get(key), and remove(key) operations.",
+    "difficulty": "Hard",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 20,
+    "date": "2025-01-20",
+    "title": "Generator Pipeline",
+    "description": "Build a data processing pipeline using Python generators. Create three generators: (1) read_data() yields lines from a data source, (2) filter_data() filters based on a condition, (3) transform_data() applies a transformation. Chain them together.",
+    "difficulty": "Medium",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 21,
+    "date": "2025-01-21",
+    "title": "K-Nearest Neighbors from Scratch",
+    "description": "Implement a simple KNN classifier from scratch in Python. Given training data with features and labels, predict the class of a new data point using Euclidean distance and majority voting among k nearest neighbors.",
+    "difficulty": "Medium",
+    "category": "aiml",
+    "xp_reward": 50
+  },
+  {
+    "id": 22,
+    "date": "2025-01-22",
+    "title": "Merge Sort Visualizer",
+    "description": "Implement merge sort and, at each merge step, print the current state of the array showing which subarrays are being merged. Count and return the total number of comparisons made.",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 23,
+    "date": "2025-01-23",
+    "title": "Time & Speed Challenge",
+    "description": "Two trains start from stations A and B (300 km apart) at the same time, traveling toward each other at 60 km/h and 90 km/h respectively. (a) When do they meet? (b) How far from A? (c) If a bird flies between them at 120 km/h, how far does it fly before they meet?",
+    "difficulty": "Medium",
+    "category": "aptitude",
+    "xp_reward": 50
+  },
+  {
+    "id": 24,
+    "date": "2025-01-24",
+    "title": "Singleton Pattern",
+    "description": "Implement the Singleton design pattern in Python in three different ways: (1) using a class variable, (2) using a metaclass, and (3) using a decorator. Ensure thread-safety for the metaclass approach.",
+    "difficulty": "Hard",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 25,
+    "date": "2025-01-25",
+    "title": "Heap Sort Implementation",
+    "description": "Implement the heap sort algorithm from scratch. Build a max-heap from the input array, then repeatedly extract the maximum element. Show the array state after each extraction step.",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 26,
+    "date": "2025-01-26",
+    "title": "Email Validator",
+    "description": "Write a Python function that validates email addresses using regular expressions. It should check for: valid username characters, @ symbol, valid domain name, and valid TLD (2-6 chars). Return True/False with a reason string.",
+    "difficulty": "Easy",
+    "category": "python",
+    "xp_reward": 50
+  },
+  {
+    "id": 27,
+    "date": "2025-01-27",
+    "title": "Linear Regression from Scratch",
+    "description": "Implement simple linear regression using gradient descent. Given x and y data points, find the best-fit line (y = mx + b). Plot the initial data and the regression line. Report the final MSE loss.",
+    "difficulty": "Medium",
+    "category": "aiml",
+    "xp_reward": 50
+  },
+  {
+    "id": 28,
+    "date": "2025-01-28",
+    "title": "Sudoku Validator",
+    "description": "Write a function to determine if a 9×9 Sudoku board is valid. Only the filled cells need to be validated according to Sudoku rules (each row, column, and 3×3 box must contain digits 1-9 without repetition).",
+    "difficulty": "Medium",
+    "category": "dsa",
+    "xp_reward": 50
+  },
+  {
+    "id": 29,
+    "date": "2025-01-29",
+    "title": "Vocabulary Builder",
+    "description": "Given a list of 10 advanced English words with meanings, create 3 fill-in-the-blank sentences for each word. Words: ephemeral, ubiquitous, pragmatic, eloquent, resilient, ambiguous, meticulous, benevolent, verbose, cogent.",
+    "difficulty": "Easy",
+    "category": "verbal",
+    "xp_reward": 50
+  },
+  {
+    "id": 30,
+    "date": "2025-01-30",
+    "title": "Dijkstra's Shortest Path",
+    "description": "Implement Dijkstra's algorithm for finding the shortest path in a weighted graph. Given an adjacency list with weights and a source node, return the shortest distances to all other nodes and the actual shortest paths.",
+    "difficulty": "Hard",
+    "category": "dsa",
+    "xp_reward": 50
+  }
+]

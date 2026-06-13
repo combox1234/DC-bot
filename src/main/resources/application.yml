@@ -1,0 +1,20 @@
+spring:
+  config:
+    import: optional:file:.env[.properties]
+  # -------------------------------------------------------------
+  # Database Configuration (Currently using H2 for instant boot)
+  # -------------------------------------------------------------
+  datasource:
+    url: jdbc:postgresql://localhost:5432/placementdb
+    driverClassName: org.postgresql.Driver
+    username: postgres
+    password: combox
+  jpa:
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
+    hibernate:
+      ddl-auto: update # Automatically creates tables based on Java Entities
+    show-sql: true
+
+discord:
+  bot:
+    token: ${DISCORD_TOKEN:} # Will pull from system environment variables

@@ -1,0 +1,104 @@
+{
+  "amazon": {
+    "name": "Amazon",
+    "process": "Amazon typically conducts 4-5 rounds of interviews focusing heavily on Data Structures, Algorithms, and System Design, aligned with their 16 Leadership Principles.",
+    "rounds": [
+      "Round 1: Online Assessment (Coding + Work Styles)",
+      "Round 2: Technical Phone Screen",
+      "Round 3: Onsite Loop (3-4 technical + behavioral rounds)",
+      "Round 4: Bar Raiser (Behavioral + System Design/Coding)"
+    ],
+    "faqs": [
+      {
+        "q": "Do I need to know System Design for SDE-1?",
+        "a": "Usually, SDE-1 roles focus on Object-Oriented Design (OOD) rather than full-scale distributed System Design."
+      },
+      {
+        "q": "How important are the Leadership Principles?",
+        "a": "Extremely important. Amazon evaluates every candidate against them, especially the Bar Raiser."
+      }
+    ],
+    "tips": [
+      "Use the STAR method (Situation, Task, Action, Result) for behavioral questions.",
+      "Practice medium and hard LeetCode problems, especially on Trees, Graphs, and DP."
+    ]
+  },
+  "google": {
+    "name": "Google",
+    "process": "Google's interview process is highly technical, focusing deeply on CS fundamentals, complex algorithms, and analytical thinking.",
+    "rounds": [
+      "Round 1: Online Assessment or Recruiter Screen",
+      "Round 2: Technical Phone Interview (Coding in Google Docs/CoderPad)",
+      "Round 3: Onsite Loop (4-5 rounds: 3-4 coding, 1 Googlyness/Leadership)"
+    ],
+    "faqs": [
+      {
+        "q": "What is 'Googlyness'?",
+        "a": "It evaluates how you work in a team, navigate ambiguity, and whether you do the right thing."
+      }
+    ],
+    "tips": [
+      "Always think out loud. Google interviewers care more about your thought process than the final compiled code.",
+      "Be prepared to optimize your solution for time and space complexity."
+    ]
+  },
+  "microsoft": {
+    "name": "Microsoft",
+    "process": "Microsoft interviews test your problem-solving skills, coding fundamentals, and cultural fit. They often ask practical, scenario-based coding questions.",
+    "rounds": [
+      "Round 1: Codility Online Assessment",
+      "Round 2: Technical Phone/Teams Screen",
+      "Round 3: Onsite Loop (3-4 technical rounds)",
+      "Round 4: 'As Appropriate' (AA) Round (Hiring Manager)"
+    ],
+    "faqs": [
+      {
+        "q": "What kind of coding questions do they ask?",
+        "a": "Standard DSA questions, often focusing on arrays, strings, linked lists, and basic system design for higher roles."
+      }
+    ],
+    "tips": [
+      "Ensure you write clean, production-ready code on the whiteboard.",
+      "Understand Microsoft's core technologies and culture."
+    ]
+  },
+  "tcs": {
+    "name": "TCS",
+    "process": "Tata Consultancy Services (TCS) conducts the National Qualifier Test (NQT) for mass hiring, followed by technical and HR interviews. Roles include Ninja, Digital, and Prime.",
+    "rounds": [
+      "Round 1: TCS NQT (Aptitude, Logical, Verbal, Programming Logic, Coding)",
+      "Round 2: Technical Interview",
+      "Round 3: Managerial Interview",
+      "Round 4: HR Interview"
+    ],
+    "faqs": [
+      {
+        "q": "What is the difference between Ninja and Digital?",
+        "a": "Ninja is the base profile. Digital is for candidates with advanced coding skills and offers a higher package."
+      }
+    ],
+    "tips": [
+      "Strong fundamentals in C/C++/Java/Python are crucial.",
+      "Be prepared for questions on DBMS, SQL, and your final year project."
+    ]
+  },
+  "infosys": {
+    "name": "Infosys",
+    "process": "Infosys recruits through InfyTQ and hackwithinfy platforms, offering roles like System Engineer (SE), Specialist Programmer (SP), and Digital Specialist Engineer (DSE).",
+    "rounds": [
+      "Round 1: Online Test (Aptitude, Logical Reasoning, Verbal)",
+      "Round 2: Pseudo Code & Puzzle Round",
+      "Round 3: Technical & HR Interview"
+    ],
+    "faqs": [
+      {
+        "q": "What topics are covered in the pseudo-code section?",
+        "a": "C/C++/Java basics, output guessing, and basic logic."
+      }
+    ],
+    "tips": [
+      "Focus heavily on logical reasoning and pseudo-code solving.",
+      "Be ready to explain every detail of the projects listed on your resume."
+    ]
+  }
+}
